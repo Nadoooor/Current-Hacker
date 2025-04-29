@@ -9,3 +9,9 @@
 ## Description:
 ### This is my first PCB and my first use of Kicad. A PCB detects the current flowing in a wire using a coil and transistors. It is in the shape of a snake, and the coil is its tongue. It has two LEDs in its eyes ### that light up when it detects current, also it vibrates near its tail.
 ## My slack Username: Nadooor
+# List of Materials:
+### * 2 LEDs
+### * 3 NPN 2N3904 transistors
+### * 1 mini motor disc
+### * 1 (1K ohm) resistor
+### * 2 (1x02 connector Pins)
