@@ -1,0 +1,80 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*
+G04 #@! TF.CreationDate,2025-04-26T01:58:34+03:00*
+G04 #@! TF.ProjectId,solder project,736f6c64-6572-4207-9072-6f6a6563742e,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2025-04-26 01:58:34*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10O,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12R,1.800000X1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.800000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,R2,2*
+G04 #@! TO.N,Net-(BT1-+)*
+X107120000Y-58500000D03*
+D11*
+G04 #@! TO.P,R2,1*
+G04 #@! TO.N,Net-(D1-A)*
+X99500000Y-58500000D03*
+G04 #@! TD*
+G04 #@! TO.P,R3,1*
+G04 #@! TO.N,Net-(D3-A)*
+X101500000Y-85000000D03*
+D10*
+G04 #@! TO.P,R3,2*
+G04 #@! TO.N,Net-(BT1-+)*
+X109120000Y-85000000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,R1,1*
+G04 #@! TO.N,Net-(D2-A)*
+X100500000Y-71500000D03*
+D10*
+G04 #@! TO.P,R1,2*
+G04 #@! TO.N,Net-(BT1-+)*
+X108120000Y-71500000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,D3,1,K*
+G04 #@! TO.N,Net-(BT1--)*
+X86000000Y-85000000D03*
+D13*
+G04 #@! TO.P,D3,2,A*
+G04 #@! TO.N,Net-(D3-A)*
+X88540000Y-85000000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,D2,1,K*
+G04 #@! TO.N,Net-(BT1--)*
+X86000000Y-71500000D03*
+D13*
+G04 #@! TO.P,D2,2,A*
+G04 #@! TO.N,Net-(D2-A)*
+X88540000Y-71500000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,D1,1,K*
+G04 #@! TO.N,Net-(BT1--)*
+X86000000Y-58500000D03*
+D13*
+G04 #@! TO.P,D1,2,A*
+G04 #@! TO.N,Net-(D1-A)*
+X88540000Y-58500000D03*
+G04 #@! TD*
+M02*

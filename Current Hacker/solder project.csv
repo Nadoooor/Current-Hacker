@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
+"BT1","Battery","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","1","","",""
+"D1,D2","LED","LED_THT:LED_D5.0mm","~","2","","",""
+"J1","Conn_01x01_Pin","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~","1","","",""
+"M1","Motor_DC","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","1","","",""
+"Q1,Q2,Q3","2N3904","Package_TO_SOT_THT:TO-92L_HandSolder","https://www.onsemi.com/pub/Collateral/2N3903-D.PDF","3","","",""
+"R1,R2,R3","R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~","3","","",""
+"SW1","SW_Push","Button_Switch_THT:SW_PUSH_6mm","~","1","","",""
