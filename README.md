@@ -1,6 +1,6 @@
 # Current-Hacker
 ## PCB:
-![Screenshot 2025-05-01 012233](https://github.com/user-attachments/assets/a1eea246-d881-4532-9283-454e3d5ca335)
+![Screenshot 2025-05-01 013810](https://github.com/user-attachments/assets/2f1346cb-659f-47c9-b3b2-5ff0fcf38106)
 
 ## Schematic:
 ![Screenshot 2025-05-01 012217](https://github.com/user-attachments/assets/31c378b6-55eb-4f97-a31d-0a8bc777a733)
