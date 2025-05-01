@@ -1,12 +1,12 @@
 # Current-Hacker
 ## PCB:
-![Screenshot 2025-05-01 013810](https://github.com/user-attachments/assets/2f1346cb-659f-47c9-b3b2-5ff0fcf38106)
+![Screenshot 2025-05-01 152434](https://github.com/user-attachments/assets/6b411e5c-d1dd-4e1a-91c5-3289ceede1da)
 
 ## Schematic:
-![Screenshot 2025-05-01 012217](https://github.com/user-attachments/assets/31c378b6-55eb-4f97-a31d-0a8bc777a733)
+![Screenshot 2025-05-01 151137](https://github.com/user-attachments/assets/f1ce8327-b191-48e0-9467-fa2cd160a4d4)
 
 ## 3D Model:
-![Screenshot 2025-05-01 012259](https://github.com/user-attachments/assets/20cbdaee-2706-4d06-ab92-85ecd9536559)
+![Screenshot 2025-05-01 152355](https://github.com/user-attachments/assets/ef78ec31-c448-44e7-9baf-17652a07e07e)
 ![Screenshot 2025-05-01 012250](https://github.com/user-attachments/assets/2141fc92-0026-4e4d-ac6f-a3786e5aae9e)
 
 ## Description:
